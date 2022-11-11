@@ -1,0 +1,7 @@
+{
+  "name": "R&M",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
